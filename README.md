@@ -5,3 +5,5 @@ This page was created using a [free template](https://www.styleshout.com/free-te
 permission to use and modify.
 
 There is also a link to download my CV as a PDF.
+
+Coming soon: Video testimonials
