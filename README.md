@@ -7,3 +7,7 @@ permission to use and modify.
 There is also a link to download my CV as a PDF.
 
 Coming soon: Video testimonials
+
+To create your own webpage similar to mine, open a repository in your Github and download a [template] (https://www.styleshout.com/free-templates) from styleshot and copy all the files to the newly created repository.
+
+Next, import the images that you wish to use into the images folder.
